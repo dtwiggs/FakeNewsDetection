@@ -1,0 +1,11 @@
+{
+    "model": "LSTM",
+    "validation_accuracy": 0.9851662404092072,
+    "validation_macro_f1": 0.9850541126622103,
+    "validation_weighted_f1": 0.9851629295505361,
+    "training_time_seconds": 2887.272176027298,
+    "epochs_completed": 5,
+    "best_epoch": 3,
+    "vocab_size": 30000,
+    "max_sequence_length": 500
+}

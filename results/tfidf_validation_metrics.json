@@ -1,0 +1,7 @@
+{
+    "model": "TF-IDF + Logistic Regression",
+    "validation_accuracy": 0.9868712702472293,
+    "validation_macro_f1": 0.9867688559074925,
+    "validation_weighted_f1": 0.9868667052669697,
+    "training_time_seconds": 56.60376763343811
+}

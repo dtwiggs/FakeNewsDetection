@@ -1,0 +1,3 @@
+Model,Validation Accuracy,Macro F1,Weighted F1,Training Time (seconds)
+TF-IDF + Logistic Regression,0.9869,0.9868,0.9869,56.6
+LSTM,0.9852,0.9851,0.9852,2887.27
