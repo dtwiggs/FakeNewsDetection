@@ -1,0 +1,11 @@
+# Large source dataset and generated train/validation/test splits
+/WELFake_Dataset.csv
+/data_splits/
+
+# DistilBERT training outputs and checkpoints
+/distilbert-fake-news/
+/distilbert-fake-news-best/
+
+# Notebook cache
+/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
